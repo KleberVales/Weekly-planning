@@ -42,6 +42,10 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 
   ```
 
+  ## Estrutura do Projeto
+
+  ## Licença
+
 
   
 
