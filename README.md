@@ -33,14 +33,14 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
    npm start
   
   ```
-  - Frontend:
-    ``` bash
+- Frontend:
+  ``` bash
     
-      cd frontend
-      npm install
-      npm start
+   cd frontend
+   npm install
+   npm start
 
-    ```
+  ```
 
 
   
