@@ -1,4 +1,4 @@
-# Projeto MBA Front-end e Back-end
+# Weekly Planner com Integração à API do ChatGPT
 
 desenvolvimento react
 
