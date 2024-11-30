@@ -27,12 +27,21 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
   * API Key do ChatGPT
  
 - Backend:
-  ```bash
+  ``` bash
    cd backend
    npm install
    npm start
   
   ```
+  - Frontend:
+    ``` bash
+    
+      cd frontend
+      npm install
+      npm start
+
+    ```
+
 
   
 
