@@ -18,4 +18,12 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 - **Integração Inteligente**: OpenAI API (ChatGPT)
 - **Banco de Dados**: (especifique o banco usado, por exemplo, MongoDB ou PostgreSQL)
 
+## Como Rodar o Projeto
+
+- Pré-requisitos:
+  * Node.js e npm/yarn instalados
+  * Banco de dados configurado (se necessário)
+  * RabbitMQ/Kafka configurado (se necessário)
+  * API Key do ChatGPT
+
 
