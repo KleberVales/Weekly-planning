@@ -25,5 +25,11 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
   * Banco de dados configurado (se necessário)
   * RabbitMQ/Kafka configurado (se necessário)
   * API Key do ChatGPT
+ 
+- Backend:
+  cd backend
+  npm install
+  npm start
+
 
 
