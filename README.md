@@ -11,4 +11,11 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 - Design responsivo e modular.
 - Sistema baseado em eventos com RabbitMQ/Kafka.
 
+## Tecnologias
+- **Frontend**: React.js
+- **Backend**: Node.js, arquitetura de microsserviços
+- **Barramento de Eventos**: RabbitMQ ou Kafka
+- **Integração Inteligente**: OpenAI API (ChatGPT)
+- **Banco de Dados**: (especifique o banco usado, por exemplo, MongoDB ou PostgreSQL)
+
 
