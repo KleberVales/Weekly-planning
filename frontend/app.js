@@ -1,7 +1,17 @@
-import axios from 'axios';
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import HomePage from "./pages/HomePage";
+import PlannerPage from "./pages/PlannerPage";
 
-const api = axios.create({
-  baseURL: 'http://localhost:3000', // Atualize com o URL do backend
-});
+function App() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/planner" element={<PlannerPage />} />
+      </Routes>
+    </Router>
+  );
+}
 
-export default api;
+export default App;
