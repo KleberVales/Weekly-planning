@@ -9,21 +9,21 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 - Comunicação entre frontend e backend via APIs.
 - Integração com a API do ChatGPT para sugestões e análises.
 - Design responsivo e modular.
-- Sistema baseado em eventos com RabbitMQ/Kafka.
+- Sistema baseado em eventos com Kafka.
 
 ## Tecnologias
 - **Frontend**: React.js
 - **Backend**: Node.js, arquitetura de microsserviços
-- **Barramento de Eventos**: RabbitMQ ou Kafka
+- **Barramento de Eventos**: Kafka
 - **Integração Inteligente**: OpenAI API (ChatGPT)
-- **Banco de Dados**: (especifique o banco usado, por exemplo, MongoDB ou PostgreSQL)
+- **Banco de Dados**: Mysql
 
 ## Como Rodar o Projeto
 
 - Pré-requisitos:
   * Node.js e npm/yarn instalados
   * Banco de dados configurado (se necessário)
-  * RabbitMQ/Kafka configurado (se necessário)
+  * Kafka configurado (se necessário)
   * API Key do ChatGPT
  
 - Backend:
