@@ -42,7 +42,7 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 
   ```
 
-  ## Estrutura do Projeto
+## Estrutura do Projeto
   ```
   Front-end\
     src\
@@ -59,8 +59,8 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 
   ```
 
-  ## Licença
-  Este projeto é apenas para fins acadêmicos e não possui uma licença específica.
+## Licença
+Este projeto é apenas para fins acadêmicos e não possui uma licença específica.
 
 
   
