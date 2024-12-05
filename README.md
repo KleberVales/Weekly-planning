@@ -43,11 +43,15 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
   ```
 
   ## Estrutura do Projeto
+  ```
   Front-end\
     src\
       |- components\
       |- pages\
       |- services\
+
+  ```
+  
   Back-end
 
 
