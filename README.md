@@ -52,8 +52,12 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 
   ```
   
-  Back-end
+  Back-end\
+      |- services\
+      |      |- tasks\
+      |- utils\
 
+  ```
 
   ## Licença
   Este projeto é apenas para fins acadêmicos e não possui uma licença específica.
