@@ -51,7 +51,7 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
       |- services\
 
   ```
-  
+  ```
   Back-end\
       |- services\
       |      |- tasks\
