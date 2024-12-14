@@ -33,6 +33,10 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
    npm start
   
   ```
+  ```
+- Kafka
+
+  ```
 - Frontend:
   ``` bash
     
