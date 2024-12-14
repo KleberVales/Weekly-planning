@@ -35,6 +35,7 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
   ```
   ```
 - Kafka
+  bin/zookeeper-server-start.sh config/zookeeper.properties
 
   ```
 - Frontend:
