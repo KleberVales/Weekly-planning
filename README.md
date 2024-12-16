@@ -9,21 +9,21 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 - Comunicação entre frontend e backend via APIs.
 - Integração com a API do ChatGPT para sugestões e análises.
 - Design responsivo e modular.
-- Sistema baseado em eventos com RabbitMQ/Kafka.
+- Sistema baseado em eventos com Kafka.
 
 ## Tecnologias
 - **Frontend**: React.js
 - **Backend**: Node.js, arquitetura de microsserviços
-- **Barramento de Eventos**: RabbitMQ ou Kafka
+- **Barramento de Eventos**: Kafka
 - **Integração Inteligente**: OpenAI API (ChatGPT)
-- **Banco de Dados**: (especifique o banco usado, por exemplo, MongoDB ou PostgreSQL)
+- **Banco de Dados**: Mysql
 
 ## Como Rodar o Projeto
 
 - Pré-requisitos:
   * Node.js e npm/yarn instalados
   * Banco de dados configurado (se necessário)
-  * RabbitMQ/Kafka configurado (se necessário)
+  * Kafka configurado (se necessário)
   * API Key do ChatGPT
  
 - Backend:
@@ -32,6 +32,14 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
    npm install
    npm start
   
+  ```
+  
+- Kafka
+  ``` bash
+  bin/zookeeper-server-start.sh config/zookeeper.properties
+  bin/kafka-server-start.sh config/server.properties
+  bin/kafka-topics.sh --create --topic meu-topico --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+
   ```
 - Frontend:
   ``` bash
@@ -42,10 +50,11 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 
   ```
 
-  ## Estrutura do Projeto
+## Estrutura do Projeto
+ 
 
-  ## Licença
-  Este projeto é apenas para fins acadêmicos e não possui uma licença específica.
+## Licença
+Este projeto é apenas para fins acadêmicos e não possui uma licença específica.
 
 
   
