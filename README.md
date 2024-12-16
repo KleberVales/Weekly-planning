@@ -33,6 +33,14 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
    npm start
   
   ```
+  
+- Kafka
+  ``` bash
+  bin/zookeeper-server-start.sh config/zookeeper.properties
+  bin/kafka-server-start.sh config/server.properties
+  bin/kafka-topics.sh --create --topic meu-topico --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+
+  ```
 - Frontend:
   ``` bash
     
@@ -43,6 +51,7 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
   ```
 
 ## Estrutura do Projeto
+<<<<<<< HEAD
   ```
   Front-end\
     src\
@@ -61,6 +70,12 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
 
 ## Licença
   Este projeto é apenas para fins acadêmicos e não possui uma licença específica.
+=======
+ 
+
+## Licença
+Este projeto é apenas para fins acadêmicos e não possui uma licença específica.
+>>>>>>> afcd95b03c9929c4bd139b9caf62b589a52db9d0
 
 
   
