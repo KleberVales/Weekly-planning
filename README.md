@@ -31,6 +31,11 @@ Este projeto é um planner semanal inspirado no estilo Tweek, desenvolvido como 
    cd backend
    npm install
    npm start
+
+   cd service1
+   npm init -y
+   npm install express mongoose kafkajs axios
+
   
   ```
   
