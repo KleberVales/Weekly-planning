@@ -50,6 +50,12 @@ npm install
 
 ```
 ### 3. **Configurar o Ambiente**
+Crie um arquivo .env para o backend com as configurações necessárias:
+
+``` env
+MONGODB_URI=mongodb://localhost:27017/seu_banco_de_dados
+KAFKA_BROKER=localhost:9092
+```
 
 
 
