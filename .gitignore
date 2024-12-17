@@ -1,0 +1,25 @@
+
+# Node.js
+node_modules/
+
+# Arquivos de build
+build/
+dist/
+
+# Arquivo de variáveis de ambiente (pode conter informações sensíveis)
+.env
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos do sistema (Windows/Mac/Linux)
+.DS_Store
+Thumbs.db
+
+# Outros arquivos temporários
+*.log
