@@ -88,6 +88,12 @@ npm run dev
 cd backend/event-bus
 npm run dev
 ```
+Frontend:
+1. Inicie o servidor de desenvolvimento:
+``` bash
+cd frontend
+npm start
+```
 
 
 
