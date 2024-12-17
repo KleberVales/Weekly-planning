@@ -72,6 +72,7 @@ Backend:
 ``` bash
 ./bin/kafka-server-start.sh ./config/server.properties
 ```
+3. Iniciar os serviços backend (cada microserviço):
 
 
 
