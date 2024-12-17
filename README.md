@@ -83,6 +83,11 @@ Backend:
 cd backend/informacao-service
 npm run dev
 ```
+- Event Bus:
+``` bash
+cd backend/event-bus
+npm run dev
+```
 
 
 
