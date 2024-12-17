@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "prisma": "^6.0.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.0.1",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "kafkajs": "^2.2.4",
+    "openai": "^4.76.3"
+  },
+    "name": "compromisso-service",
+    "version": "1.0.0",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "node src/server.js",
+      "dev": "nodemon src/server.js"
+    }
+  
+  
+}
