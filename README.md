@@ -69,6 +69,9 @@ Backend:
 ./bin/zookeeper-server-start.sh ./config/zookeeper.properties
 ```
 2. inicie o Kafka
+``` bash
+./bin/kafka-server-start.sh ./config/server.properties
+```
 
 
 
