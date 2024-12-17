@@ -49,6 +49,7 @@ cd backend/event-bus
 npm install
 
 ```
+### 3. **Configurar o Ambiente**
 
 
 
