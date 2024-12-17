@@ -95,6 +95,8 @@ cd frontend
 npm start
 ```
 
+### Licença
+
 
 
 
