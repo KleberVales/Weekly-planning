@@ -38,5 +38,17 @@ npm install
 
 ```
 - Backend (para cada microserviço):
+``` bash
+cd backend/compromisso-service
+npm install
+
+cd backend/informacao-service
+npm install
+
+cd backend/event-bus
+npm install
+
+```
+
 
 
