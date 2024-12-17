@@ -75,9 +75,14 @@ Backend:
 3. Iniciar os serviços backend (cada microserviço):
 - Compromisso Service:
  ``` bash
-   cd backend/compromisso-service
-   npm run dev
+ cd backend/compromisso-service
+ npm run dev
  ```
+- Informacao Service:
+``` bash
+cd backend/informacao-service
+npm run dev
+```
 
 
 
