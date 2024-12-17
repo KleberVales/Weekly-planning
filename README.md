@@ -31,4 +31,11 @@ git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 ### 2. **Instalar Dependências**
 Navegue para o diretório do frontend e backend e instale as dependências.
 
+- Frontend
+``` bash
+cd frontend
+npm install
+
+```
+
 
