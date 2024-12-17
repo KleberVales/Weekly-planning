@@ -61,6 +61,7 @@ Se estiver usando o ChatGPT API, adicione também a chave da API:
 ``` env
 OPENAI_API_KEY=your_openai_api_key
 ```
+### 4. **Rodar os Serviços**
 
 
 
