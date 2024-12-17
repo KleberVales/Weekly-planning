@@ -27,3 +27,5 @@ Primeiro, clone o repositório para sua máquina local:
 
 ```bash
 git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+```
+### 2. **Instalar Dependências**
