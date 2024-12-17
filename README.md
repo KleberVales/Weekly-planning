@@ -56,6 +56,11 @@ Crie um arquivo .env para o backend com as configurações necessárias:
 MONGODB_URI=mongodb://localhost:27017/seu_banco_de_dados
 KAFKA_BROKER=localhost:9092
 ```
+Se estiver usando o ChatGPT API, adicione também a chave da API:
+
+``` env
+OPENAI_API_KEY=your_openai_api_key
+```
 
 
 
