@@ -73,11 +73,11 @@ Backend:
 ./bin/kafka-server-start.sh ./config/server.properties
 ```
 3. Iniciar os serviços backend (cada microserviço):
-   - Compromisso Service:
-   ``` bash
+- Compromisso Service:
+ ``` bash
    cd backend/compromisso-service
    npm run dev
-   ```
+ ```
 
 
 
