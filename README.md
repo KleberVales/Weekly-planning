@@ -63,5 +63,12 @@ OPENAI_API_KEY=your_openai_api_key
 ```
 ### 4. **Rodar os Serviços**
 
+Backend:
+1. Inicie o Zookeeper:
+``` bash
+./bin/zookeeper-server-start.sh ./config/zookeeper.properties
+```
+2. inicie o Kafka
+
 
 
