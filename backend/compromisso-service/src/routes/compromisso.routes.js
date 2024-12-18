@@ -35,5 +35,23 @@ router.post('/gpt', async (req, res) => {
     res.status(500).json({ error: 'Erro ao consultar ChatGPT.' });
   }
 });
+// Rota para adicionar uma nova tarefa
+router.post('/compromissos', async (req, res) => {
+  const { tarefa, dia } = req.body;
+
+  if (!tarefa || !dia) {
+    return res.status(400).json({ error: 'Tarefa e dia são obrigatórios' });
+  }
+
+  try {
+    const novoCompromisso = await prisma.compromisso.create({
+      data: { tarefa, dia },
+    });
+    res.status(201).json(novoCompromisso);
+  } catch (error) {
+    console.error('Erro ao adicionar compromisso:', error);
+    res.status(500).json({ error: 'Erro ao adicionar compromisso' });
+  }
+});
 
 module.exports = router;
