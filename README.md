@@ -1,4 +1,4 @@
-# Projeto MBA Web
+# Projeto MBA Web - Planner Semanal
 
 Este é um projeto desenvolvido como parte do MBA, que envolve a criação de um sistema web com **microserviços**, **Kafka** para comunicação assíncrona, **MongoDB** como banco de dados e integração com o **ChatGPT**. O sistema tem como objetivo gerenciar compromissos e informações de forma eficiente.
 
@@ -66,11 +66,11 @@ OPENAI_API_KEY=your_openai_api_key
 Backend:
 1. Inicie o Zookeeper:
 ``` bash
-./bin/zookeeper-server-start.sh ./config/zookeeper.properties
+bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 ```
 2. inicie o Kafka
 ``` bash
-./bin/kafka-server-start.sh ./config/server.properties
+bin\windows\kafka-server-start.bat .\config\server.properties
 ```
 3. Iniciar os serviços backend (cada microserviço):
 - Compromisso Service:
