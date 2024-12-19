@@ -107,6 +107,7 @@ Projeto-MBA-Web/
 │   │   │   │   ├── producer.js            # Produz mensagens para Kafka
 │   │   │   │   └── consumer.js            # Consome mensagens de Kafka
 │   │   │   ├── chatgpt/
+│   │   │   │   └── chatgpt.js             # Integração com a API do ChatGPT
 
 ```
 
