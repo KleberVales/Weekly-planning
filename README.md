@@ -108,6 +108,7 @@ Projeto-MBA-Web/
 │   │   │   │   └── consumer.js            # Consome mensagens de Kafka
 │   │   │   ├── chatgpt/
 │   │   │   │   └── chatgpt.js             # Integração com a API do ChatGPT
+│   │   │   ├── prisma-client.js           # Configuração do Prisma Client
 
 ```
 
