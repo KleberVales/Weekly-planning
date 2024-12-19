@@ -101,6 +101,7 @@ Projeto-MBA-Web/
 │   ├── compromisso-service/
 │   │   ├── src/
 │   │   │   ├── models/
+│   │   │   │   └── compromisso.model.js   # Definição do modelo Prisma para compromissos
 
 ```
 
