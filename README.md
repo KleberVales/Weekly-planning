@@ -115,6 +115,7 @@ Projeto-MBA-Web/
 │   │   ├── prisma/
 │   │   │   └── schema.prisma              # Definição do modelo Prisma
 │   │   ├── .env                           # Variáveis de ambiente para o serviço
+│   │   ├── package.json                   # Dependências do serviço
 
 ```
 
