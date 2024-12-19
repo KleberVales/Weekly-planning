@@ -114,6 +114,7 @@ Projeto-MBA-Web/
 │   │   │   │   └── database.js            # Configuração da conexão com MongoDB
 │   │   ├── prisma/
 │   │   │   └── schema.prisma              # Definição do modelo Prisma
+│   │   ├── .env                           # Variáveis de ambiente para o serviço
 
 ```
 
