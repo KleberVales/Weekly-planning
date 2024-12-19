@@ -120,6 +120,8 @@ Projeto-MBA-Web/
 │   │   └── README.md                      # Documentação do compromisso-service
 │   │   ├── prisma/
 │   │   │   └── schema.prisma              # Definição do modelo Prisma
+│   │   ├── .env                           # Variáveis de ambiente para o serviço
+│   │   ├── package.json                   # Dependências do serviço
 
 ```
 
