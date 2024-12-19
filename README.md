@@ -131,6 +131,7 @@ Projeto-MBA-Web/
 │   │   │   ├── routes/
 │   │   │   │   └── informacao.routes.js   # Rotas para informações e consumo de Kafka
 │   │   │   ├── kafka/
+│   │   │   │   ├── producer.js            # Produz mensagens para Kafka
 
 
 
