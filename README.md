@@ -109,6 +109,7 @@ Projeto-MBA-Web/
 │   │   │   ├── chatgpt/
 │   │   │   │   └── chatgpt.js             # Integração com a API do ChatGPT
 │   │   │   ├── prisma-client.js           # Configuração do Prisma Client
+│   │   │   ├── server.js                  # Configuração do servidor Express
 
 ```
 
