@@ -111,6 +111,7 @@ Projeto-MBA-Web/
 │   │   │   ├── prisma-client.js           # Configuração do Prisma Client
 │   │   │   ├── server.js                  # Configuração do servidor Express
 │   │   │   ├── config/
+│   │   │   │   └── database.js            # Configuração da conexão com MongoDB
 
 ```
 
