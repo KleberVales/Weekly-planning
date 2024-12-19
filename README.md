@@ -112,6 +112,7 @@ Projeto-MBA-Web/
 │   │   │   ├── server.js                  # Configuração do servidor Express
 │   │   │   ├── config/
 │   │   │   │   └── database.js            # Configuração da conexão com MongoDB
+│   │   ├── prisma/
 
 ```
 
