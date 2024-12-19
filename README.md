@@ -124,6 +124,12 @@ Projeto-MBA-Web/
 │   │   ├── package.json                   # Dependências do serviço
 │   │   ├── Dockerfile                     # Configuração Docker do compromisso-service
 │   │   └── README.md                      # Documentação do compromisso-service
+│   ├── informacao-service/
+│   │   ├── src/
+│   │   │   ├── models/
+│   │   │   │   └── informacao.model.js    # Definição do modelo Prisma para informações
+
+
 
 ```
 
