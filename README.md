@@ -97,6 +97,7 @@ npm start
 ### Estrutura Geral do Projeto
 ``` Plaintext
 Projeto-MBA-Web/
+├── backend/
 
 ```
 
