@@ -94,6 +94,11 @@ Frontend:
 cd frontend
 npm start
 ```
+### Estrutura Geral do Projeto
+``` Plaintext
+Projeto-MBA-Web/
+
+```
 
 ### Licença
 
