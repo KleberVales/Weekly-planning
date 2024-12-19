@@ -102,6 +102,7 @@ Projeto-MBA-Web/
 │   │   ├── src/
 │   │   │   ├── models/
 │   │   │   │   └── compromisso.model.js   # Definição do modelo Prisma para compromissos
+│   │   │   │   └── compromisso.routes.js  # Rotas para CRUD de compromissos e integração com Kafka/ChatGPT
 
 ```
 
