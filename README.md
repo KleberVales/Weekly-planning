@@ -116,6 +116,7 @@ Projeto-MBA-Web/
 │   │   │   └── schema.prisma              # Definição do modelo Prisma
 │   │   ├── .env                           # Variáveis de ambiente para o serviço
 │   │   ├── package.json                   # Dependências do serviço
+│   │   ├── Dockerfile                     # Configuração Docker do compromisso-service
 
 ```
 
