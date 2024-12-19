@@ -118,6 +118,8 @@ Projeto-MBA-Web/
 │   │   ├── package.json                   # Dependências do serviço
 │   │   ├── Dockerfile                     # Configuração Docker do compromisso-service
 │   │   └── README.md                      # Documentação do compromisso-service
+│   │   ├── prisma/
+│   │   │   └── schema.prisma              # Definição do modelo Prisma
 
 ```
 
