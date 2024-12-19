@@ -104,6 +104,7 @@ Projeto-MBA-Web/
 │   │   │   │   └── compromisso.model.js   # Definição do modelo Prisma para compromissos
 │   │   │   │   └── compromisso.routes.js  # Rotas para CRUD de compromissos e integração com Kafka/ChatGPT
 │   │   │   ├── kafka/
+│   │   │   │   ├── producer.js            # Produz mensagens para Kafka
 
 ```
 
