@@ -113,6 +113,7 @@ Projeto-MBA-Web/
 │   │   │   ├── config/
 │   │   │   │   └── database.js            # Configuração da conexão com MongoDB
 │   │   ├── prisma/
+│   │   │   └── schema.prisma              # Definição do modelo Prisma
 
 ```
 
