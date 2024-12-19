@@ -130,6 +130,7 @@ Projeto-MBA-Web/
 │   │   │   │   └── informacao.model.js    # Definição do modelo Prisma para informações
 │   │   │   ├── routes/
 │   │   │   │   └── informacao.routes.js   # Rotas para informações e consumo de Kafka
+│   │   │   ├── kafka/
 
 
 
