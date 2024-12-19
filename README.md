@@ -105,6 +105,7 @@ Projeto-MBA-Web/
 │   │   │   │   └── compromisso.routes.js  # Rotas para CRUD de compromissos e integração com Kafka/ChatGPT
 │   │   │   ├── kafka/
 │   │   │   │   ├── producer.js            # Produz mensagens para Kafka
+│   │   │   │   └── consumer.js            # Consome mensagens de Kafka
 
 ```
 
