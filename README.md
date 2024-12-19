@@ -100,6 +100,7 @@ Projeto-MBA-Web/
 ├── backend/
 │   ├── compromisso-service/
 │   │   ├── src/
+│   │   │   ├── models/
 
 ```
 
