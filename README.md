@@ -142,6 +142,7 @@ Projeto-MBA-Web/
 │   │   ├── .env                           # Variáveis de ambiente para o serviço
 │   │   ├── package.json                   # Dependências do serviço
 │   │   ├── Dockerfile                     # Configuração Docker do informacao-service
+│   │   └── README.md                      # Documentação do informacao-service
 
 
 ```
