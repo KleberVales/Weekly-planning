@@ -134,6 +134,7 @@ Projeto-MBA-Web/
 │   │   │   │   ├── producer.js            # Produz mensagens para Kafka
 │   │   │   │   └── consumer.js            # Consome mensagens de Kafka
 │   │   │   ├── prisma-client.js           # Configuração do Prisma Client
+│   │   │   ├── server.js                  # Configuração do servidor Express
 
 
 
