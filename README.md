@@ -143,6 +143,7 @@ Projeto-MBA-Web/
 │   │   ├── package.json                   # Dependências do serviço
 │   │   ├── Dockerfile                     # Configuração Docker do informacao-service
 │   │   └── README.md                      # Documentação do informacao-service
+│   ├── event-bus/
 
 
 ```
