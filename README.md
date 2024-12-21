@@ -172,6 +172,7 @@ Projeto-MBA-Web/
 │   │   ├── services/                      # Comunicação com a API
 │   │   │   ├── api.js                     # Configuração da API
 │   │   ├── App.js                         # Componente principal
+│   │   ├── index.js                       # Entrada principal do React
 
 ```
 
