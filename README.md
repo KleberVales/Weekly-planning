@@ -144,6 +144,8 @@ Projeto-MBA-Web/
 │   │   ├── Dockerfile                     # Configuração Docker do informacao-service
 │   │   └── README.md                      # Documentação do informacao-service
 │   ├── event-bus/
+│   │   ├── src/
+│   │   │   ├── kafka/
 
 
 ```
