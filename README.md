@@ -167,6 +167,7 @@ Projeto-MBA-Web/
 │   │   │   ├── Compromissos.js            # Gerenciamento de compromissos
 │   │   │   ├── Informacoes.js             # Gerenciamento de informações
 │   │   ├── pages/                         # Páginas principais
+│   │   │   ├── Home.js                    # Página inicial
 
 ```
 
