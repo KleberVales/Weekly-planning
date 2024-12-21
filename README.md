@@ -168,6 +168,7 @@ Projeto-MBA-Web/
 │   │   │   ├── Informacoes.js             # Gerenciamento de informações
 │   │   ├── pages/                         # Páginas principais
 │   │   │   ├── Home.js                    # Página inicial
+│   │   │   ├── Sobre.js                   # Página sobre o projeto
 
 ```
 
