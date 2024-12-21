@@ -9,3 +9,9 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+/**
+ * Projeto acadêmico - Kleber Vales (2024)
+ * Este código é fornecido "como está", para uso educacional e não comercial.
+ */
+
