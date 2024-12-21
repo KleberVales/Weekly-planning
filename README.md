@@ -176,6 +176,7 @@ Projeto-MBA-Web/
 │   │   └── .env                           # Variáveis de ambiente do frontend
 │   ├── package.json                       # Dependências do frontend
 │   ├── Dockerfile                         # Configuração Docker do frontend
+│   └── README.md                          # Documentação do frontend
 
 ```
 
