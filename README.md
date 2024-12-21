@@ -155,6 +155,7 @@ Projeto-MBA-Web/
 │   │   └── README.md                      # Documentação do Event Bus
 │   ├── docker-compose.yml                 # Orquestração de todos os serviços Docker
 │   ├── README.md                          # Documentação geral do backend
+├── frontend/
 
 
 ```
