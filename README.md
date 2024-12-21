@@ -162,6 +162,7 @@ Projeto-MBA-Web/
 │   │   ├── assets/                        # Imagens e estilos
 │   │   │   ├── styles.css                 # Estilos globais
 │   │   ├── components/                    # Componentes reutilizáveis
+│   │   │   ├── Header.js                  # Cabeçalho do site
 
 
 ```
