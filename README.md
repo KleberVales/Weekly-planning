@@ -177,6 +177,7 @@ Projeto-MBA-Web/
 │   ├── package.json                       # Dependências do frontend
 │   ├── Dockerfile                         # Configuração Docker do frontend
 │   └── README.md                          # Documentação do frontend
+├── .gitignore                             # Arquivos e pastas ignorados pelo Git
 
 ```
 
