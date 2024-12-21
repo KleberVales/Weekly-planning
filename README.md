@@ -157,6 +157,7 @@ Projeto-MBA-Web/
 │   ├── README.md                          # Documentação geral do backend
 ├── frontend/
 │   ├── public/
+│   │   └── index.html                     # Arquivo HTML principal
 
 
 ```
