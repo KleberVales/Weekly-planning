@@ -159,6 +159,7 @@ Projeto-MBA-Web/
 │   ├── public/
 │   │   └── index.html                     # Arquivo HTML principal
 │   ├── src/
+│   │   ├── assets/                        # Imagens e estilos
 
 
 ```
