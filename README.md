@@ -173,6 +173,7 @@ Projeto-MBA-Web/
 │   │   │   ├── api.js                     # Configuração da API
 │   │   ├── App.js                         # Componente principal
 │   │   ├── index.js                       # Entrada principal do React
+│   │   └── .env                           # Variáveis de ambiente do frontend
 
 ```
 
