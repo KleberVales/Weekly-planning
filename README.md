@@ -147,6 +147,7 @@ Projeto-MBA-Web/
 │   │   ├── src/
 │   │   │   ├── kafka/
 │   │   │   │   ├── producer.js            # Produz mensagens para Kafka
+│   │   │   │   └── consumer.js            # Consome mensagens de Kafka
 
 
 ```
