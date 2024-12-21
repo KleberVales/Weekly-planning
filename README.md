@@ -164,6 +164,7 @@ Projeto-MBA-Web/
 │   │   ├── components/                    # Componentes reutilizáveis
 │   │   │   ├── Header.js                  # Cabeçalho do site
 │   │   │   ├── Footer.js                  # Rodapé do site
+│   │   │   ├── Compromissos.js            # Gerenciamento de compromissos
 
 
 ```
