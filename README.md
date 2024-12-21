@@ -169,6 +169,7 @@ Projeto-MBA-Web/
 │   │   ├── pages/                         # Páginas principais
 │   │   │   ├── Home.js                    # Página inicial
 │   │   │   ├── Sobre.js                   # Página sobre o projeto
+│   │   ├── services/                      # Comunicação com a API
 
 ```
 
