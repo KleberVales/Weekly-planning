@@ -166,6 +166,7 @@ Projeto-MBA-Web/
 │   │   │   ├── Footer.js                  # Rodapé do site
 │   │   │   ├── Compromissos.js            # Gerenciamento de compromissos
 │   │   │   ├── Informacoes.js             # Gerenciamento de informações
+│   │   ├── pages/                         # Páginas principais
 
 ```
 
