@@ -153,6 +153,7 @@ Projeto-MBA-Web/
 │   │   ├── package.json                   # Dependências do Event Bus
 │   │   ├── Dockerfile                     # Configuração Docker do Event Bus
 │   │   └── README.md                      # Documentação do Event Bus
+│   ├── docker-compose.yml                 # Orquestração de todos os serviços Docker
 
 
 ```
