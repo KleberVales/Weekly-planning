@@ -163,6 +163,7 @@ Projeto-MBA-Web/
 │   │   │   ├── styles.css                 # Estilos globais
 │   │   ├── components/                    # Componentes reutilizáveis
 │   │   │   ├── Header.js                  # Cabeçalho do site
+│   │   │   ├── Footer.js                  # Rodapé do site
 
 
 ```
