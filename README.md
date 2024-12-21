@@ -150,6 +150,7 @@ Projeto-MBA-Web/
 │   │   │   │   └── consumer.js            # Consome mensagens de Kafka
 │   │   │   └── server.js                  # Configuração do servidor do Event Bus
 │   │   ├── .env                           # Variáveis de ambiente para o Event Bus
+│   │   ├── package.json                   # Dependências do Event Bus
 
 
 ```
