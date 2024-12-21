@@ -178,6 +178,7 @@ Projeto-MBA-Web/
 │   ├── Dockerfile                         # Configuração Docker do frontend
 │   └── README.md                          # Documentação do frontend
 ├── .gitignore                             # Arquivos e pastas ignorados pelo Git
+├── README.md                              # Documentação geral do projeto
 
 ```
 
