@@ -158,6 +158,7 @@ Projeto-MBA-Web/
 ├── frontend/
 │   ├── public/
 │   │   └── index.html                     # Arquivo HTML principal
+│   ├── src/
 
 
 ```
