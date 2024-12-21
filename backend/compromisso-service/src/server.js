@@ -14,3 +14,9 @@ const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
   console.log(`Compromisso Service rodando na porta ${PORT}`);
 });
+
+/**
+ * Projeto acadêmico - Kleber Vales (2024)
+ * Este código é fornecido "como está", para uso educacional e não comercial.
+ */
+
