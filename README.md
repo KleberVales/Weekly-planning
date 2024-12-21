@@ -174,6 +174,7 @@ Projeto-MBA-Web/
 │   │   ├── App.js                         # Componente principal
 │   │   ├── index.js                       # Entrada principal do React
 │   │   └── .env                           # Variáveis de ambiente do frontend
+│   ├── package.json                       # Dependências do frontend
 
 ```
 
