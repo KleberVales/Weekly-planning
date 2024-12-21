@@ -165,7 +165,7 @@ Projeto-MBA-Web/
 │   │   │   ├── Header.js                  # Cabeçalho do site
 │   │   │   ├── Footer.js                  # Rodapé do site
 │   │   │   ├── Compromissos.js            # Gerenciamento de compromissos
-
+│   │   │   ├── Informacoes.js             # Gerenciamento de informações
 
 ```
 
