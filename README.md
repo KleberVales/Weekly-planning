@@ -161,6 +161,7 @@ Projeto-MBA-Web/
 │   ├── src/
 │   │   ├── assets/                        # Imagens e estilos
 │   │   │   ├── styles.css                 # Estilos globais
+│   │   ├── components/                    # Componentes reutilizáveis
 
 
 ```
