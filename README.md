@@ -152,6 +152,7 @@ Projeto-MBA-Web/
 │   │   ├── .env                           # Variáveis de ambiente para o Event Bus
 │   │   ├── package.json                   # Dependências do Event Bus
 │   │   ├── Dockerfile                     # Configuração Docker do Event Bus
+│   │   └── README.md                      # Documentação do Event Bus
 
 
 ```
