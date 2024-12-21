@@ -171,6 +171,7 @@ Projeto-MBA-Web/
 │   │   │   ├── Sobre.js                   # Página sobre o projeto
 │   │   ├── services/                      # Comunicação com a API
 │   │   │   ├── api.js                     # Configuração da API
+│   │   ├── App.js                         # Componente principal
 
 ```
 
