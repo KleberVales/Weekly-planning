@@ -146,6 +146,7 @@ Projeto-MBA-Web/
 │   ├── event-bus/
 │   │   ├── src/
 │   │   │   ├── kafka/
+│   │   │   │   ├── producer.js            # Produz mensagens para Kafka
 
 
 ```
