@@ -182,7 +182,11 @@ Projeto-MBA-Web/
 
 ```
 
-### Licença
+## Licença
+Este é um projeto acadêmico desenvolvido para fins educacionais e não possui uma licença específica.
+
+Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
+
 
 
 
