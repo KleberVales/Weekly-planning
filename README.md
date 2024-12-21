@@ -148,6 +148,7 @@ Projeto-MBA-Web/
 │   │   │   ├── kafka/
 │   │   │   │   ├── producer.js            # Produz mensagens para Kafka
 │   │   │   │   └── consumer.js            # Consome mensagens de Kafka
+│   │   │   └── server.js                  # Configuração do servidor do Event Bus
 
 
 ```
