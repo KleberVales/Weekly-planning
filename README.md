@@ -17,7 +17,7 @@ Este é um projeto desenvolvido como parte do MBA, que envolve a criação de um
   - API do ChatGPT para processamento de dados
 - **Infraestrutura**:
   - Kafka (para gerenciar eventos entre microserviços)
-  - Docker (para contêinerizar os serviços, se necessário)
+  - Docker (para contêinerizar os serviços)
 
 ## **Instalação e Execução**
 
