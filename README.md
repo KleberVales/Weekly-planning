@@ -13,7 +13,7 @@ Este é um projeto desenvolvido como parte do MBA, que envolve a criação de um
   - Node.js
   - Express.js
   - Kafka para comunicação assíncrona entre microserviços
-  - MongoDB (via Prisma) para armazenamento de dados
+  - MongoDB para armazenamento de dados
   - API do ChatGPT para processamento de dados
 - **Infraestrutura**:
   - Kafka (para gerenciar eventos entre microserviços)
