@@ -1,4 +1,4 @@
-# Projeto MBA Web - Planner Semanal
+# Projeto para o MBA - Planner Semanal
 
 Este é um projeto desenvolvido como parte do MBA, que envolve a criação de um sistema web com **microserviços**, **Kafka** para comunicação assíncrona, **MongoDB** como banco de dados e integração com o **ChatGPT**. O sistema tem como objetivo gerenciar compromissos e informações de forma eficiente.
 
