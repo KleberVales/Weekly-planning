@@ -194,9 +194,9 @@ Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 **Kleber Vales**
 
-*Java and Spring Software Engineer*   
+**Java and Spring Software Engineer**   
 
-Cloud & DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
+Cloud & DevOps | Git/GitHub | Scrum | Docker | Kubernate | Gen AI
 
 
 
