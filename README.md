@@ -202,6 +202,9 @@ Cloud & DevOps | Git/GitHub | Scrum | Docker | Kubernate | Gen AI
 
 🏆**OCI 2025: DevOps Professional**  🏆**OCI 2025: Generative AI Professional**
 
+Bachelor's Degree in Computer Science\
+MBA in Web Software Development
+
 
 
 
