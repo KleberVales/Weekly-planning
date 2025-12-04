@@ -188,9 +188,12 @@ Este é um projeto acadêmico desenvolvido para fins educacionais e não possui 
 Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 
-kleber Vales
+---
 
-Back-end Software Engineer 
+## ✍️ Author
+
+**Kleber Vales**
+
 
 
 
