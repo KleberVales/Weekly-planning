@@ -198,10 +198,14 @@ Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 Cloud & DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
-🏆**OCA: Java SE 7 Programmer**\ 
-🏆**MTA: Software Development**\ 
-🏆**Scrum Certified**\
-🏆**OCI 2025: DevOps Professional**\  
+🏆**OCA: Java SE 7 Programmer** 
+
+🏆**MTA: Software Development** 
+
+🏆**Scrum Certified**
+
+🏆**OCI 2025: DevOps Professional**  
+
 🏆**OCI 2025: Generative AI Professional**
 
 Bachelor's Degree in Computer Science\
