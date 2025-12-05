@@ -196,7 +196,7 @@ Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 **Java & Spring Software Engineer**   
 
-Cloud & DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
+Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
 🏆**OCA: Java SE 7 Programmer** 
 
