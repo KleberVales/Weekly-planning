@@ -202,7 +202,7 @@ Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
 🏆**Microsoft Technology Associate - Software Development Fundamentals** 
 
-🏆**Scrum Certified**
+🏆**Scrum Certified Fundamentals**
 
 🏆**OCI 2025: DevOps Professional**  
 
