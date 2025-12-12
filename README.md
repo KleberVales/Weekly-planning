@@ -198,7 +198,7 @@ Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
 
-🏆**Oracle Certified - Java SE 7 Programmer** 
+🏆**Oracle Certified Associate - Java SE 7 Programmer** 
 
 🏆**MTA: Software Development** 
 
