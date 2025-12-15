@@ -212,6 +212,9 @@ Cloud | DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
 
 🎓 **Bachelor's Degree in Computer Science**
 
+🎓 **MBA in Web Software Development**
+
+
 
 
 
