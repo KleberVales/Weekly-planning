@@ -190,29 +190,8 @@ Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 ---
 
-## ✍️ Author
+## ✉️ Contact
 
-**Kleber Vales**
-
-**Java & Spring Software Engineer**   
-
-Cloud | DevOps | Git/GitHub | Scrum | Docker | Kubernates | Genenative AI
-
-🏆**Oracle Certified Associate - Java SE 7 Programmer** 
-
-🏆**Microsoft Technology Associate - Software Development Fundamentals** 
-
-🏆**Scrum Certified Fundamentals**
-
-🏆**Oracle cloud Infraestruture 2025 - DevOps Professional**  
-
-🏆**OCI 2025: Generative AI Professional**
-
-🎓 **Bachelor's Degree in Computer Science**
-
-🎓 **MBA in Web Software Development**
-
-
-
+Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) |
 
 
