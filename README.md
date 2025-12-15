@@ -194,4 +194,9 @@ Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) |
 
+**Kleber Vales**
+
+*Java & Spring Software Engineer*
+
+Cloud | DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
 
