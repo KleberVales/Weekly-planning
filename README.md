@@ -192,30 +192,22 @@ Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
 ## ✉️ Contact
 
-Connect with me!  [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin) | [GitHub](https://github.com/KleberVales) |
+Connect with me:  
+[LinkedIn](https://www.linkedin.com/in/klebervales) | [GitHub](https://github.com/KleberVales)
 
-**Kleber Vales**
-
+**Kleber Vales**  
 *Java & Spring Software Engineer*
 
-Cloud | DevOps | Git/GitHub | Scrum | JUnit 5 | Hibernate
+Cloud | DevOps | Docker | Kubernetes | Git/GitHub | Scrum | JUnit 5 | Hibernate | Gen AI
 
-🏆 Oracle Certified Associate - Java SE 7 Programmer
+🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
+🏆 **Microsoft Technology Associate – Software Development Fundamentals**  
+🏆 **Scrum Fundamentals Certified (SFC™)**  
+🏆 **Oracle Cloud Infrastructure 2025 – DevOps Professional**  
+🏆 **Oracle Cloud Infrastructure 2025 – Generative AI Professional**
 
-🏆 Microsoft Technology Associate - Software Development Fundamentals
-
-🏆 Scrum Fundamentals Certified (SFC™)
-
-🏆 Oracle Clould Infrastructure 2025 - DevOps Professional
-
-🏆 Oracle Cloud Infrastructure 2025 - Generative AI Professional
-
-🎓 **Bachelor's Degree in Computer Science**
-
+🎓 **Bachelor's Degree in Computer Science**  
 🎓 **MBA in Web Software Development**
-
-
-
 
 
 
